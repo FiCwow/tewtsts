@@ -1,0 +1,62 @@
+2025-11-02 17:38:43,856 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:38:43,856 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:39:23,404 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:39:23,405 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:40:00,768 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:40:00,769 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:40:40,105 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:40:40,107 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:42:27,204 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:42:38,895 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:42:53,327 | INFO | Zapisano OTS: iglaots
+2025-11-02 17:42:53,328 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:46:10,470 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:49:50,839 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:49:50,845 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:49:52,985 | INFO | Załadowano konfigurację: IGLAOTS
+2025-11-02 17:50:05,888 | INFO | Załadowano konfigurację: IGLAOTS
+2025-11-02 17:50:22,556 | INFO | Załadowano konfigurację: IGLAOTS
+2025-11-02 17:50:30,487 | INFO | Załadowano konfigurację: IGLAOTS
+2025-11-02 17:51:56,510 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:51:56,515 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:51:59,520 | INFO | Załadowano konfigurację: IGLAOTS
+2025-11-02 17:51:59,527 | INFO | Połączono z oknem: Tibia - | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 17:55:08,558 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:55:08,564 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:55:27,064 | INFO | Zapisano OTS: iglaots
+2025-11-02 17:55:27,064 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:55:27,065 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:55:31,686 | INFO | Zapisano OTS: dasda
+2025-11-02 17:55:31,686 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:55:31,687 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:55:36,887 | INFO | Załadowano konfigurację: Iglaots
+2025-11-02 17:55:36,890 | INFO | Połączono z oknem: Tibia | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 17:57:59,158 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:57:59,165 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 17:59:53,936 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 17:59:53,942 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:00:06,429 | INFO | Zapisano OTS: testt
+2025-11-02 18:00:06,431 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:00:06,434 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:00:11,123 | INFO | Załadowano konfigurację: TESTT
+2025-11-02 18:00:11,125 | INFO | Połączono z oknem: Tibia - Kalz | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 18:05:59,977 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:05:59,979 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:06:03,516 | INFO | Załadowano konfigurację: TESTT
+2025-11-02 18:06:03,519 | INFO | Połączono z oknem: Tibia - Kalz | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 18:06:36,602 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:06:36,604 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:06:41,971 | INFO | Załadowano konfigurację: TESTT
+2025-11-02 18:06:41,974 | INFO | Połączono z oknem: Tibia - Kalz | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 18:09:00,601 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:09:00,601 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 7 column 47 (char 149)
+2025-11-02 18:09:00,603 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:09:13,828 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:09:13,828 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 7 column 47 (char 149)
+2025-11-02 18:09:13,830 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)
+2025-11-02 18:09:18,414 | INFO | Załadowano: TESTT
+2025-11-02 18:09:18,419 | ERROR | Błąd odczytu pamięci: invalid literal for int() with base 16: ''
+2025-11-02 18:09:18,419 | INFO | Połączono | PID: 17176 | Base: 0x7FF754BF0000
+2025-11-02 18:09:44,575 | ERROR | Błąd w STARY.json: Expecting ',' delimiter: line 9 column 17 (char 157)
+2025-11-02 18:09:44,576 | ERROR | Błąd w iglaots.json: Expecting ',' delimiter: line 7 column 47 (char 149)
+2025-11-02 18:09:44,576 | ERROR | Błąd w tibia.json: Expecting ',' delimiter: line 9 column 17 (char 152)

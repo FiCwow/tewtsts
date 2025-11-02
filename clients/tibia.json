@@ -1,0 +1,55 @@
+{
+  "name": "Tibia",
+  "client_name": "Tibia",
+  "square_size": 60,
+  "collect_threshold": 0.85,
+
+  "my_x": {
+    "base": "0x019C6628",
+    "offset": [0x510, 0x60],
+    "type": 3
+  },
+  "my_y": {
+    "base": "0x019C6628",
+    "offset": [0x510, 0x64],
+    "type": 3
+  },
+  "my_z": {
+    "base": "0x019C6628",
+    "offset": [0x510, 0x68],
+    "type": 2
+  },
+
+  "my_stats": {
+    "base": "0x019C6628"
+  },
+
+  "my_hp": {
+    "offset": [0xD8, 0x18],
+    "type": 2
+  },
+  "my_hp_max": {
+    "offset": [0xD8, 0x1C],
+    "type": 2
+  },
+  "my_mp": {
+    "offset": [0xD8, 0x60],
+    "type": 2
+  },
+  "my_mp_max": {
+    "offset": [0xD8, 0x64],
+    "type": 2
+  },
+
+  "attack": {
+    "base": "0x019C6628",
+    "offset": [0x2C0, 0x2C],
+    "type": 3
+  },
+
+  "target_x": {
+    "offset": 0x38,
+    "type": 3
+  },
+  "target_y": {
+    "offset": 0

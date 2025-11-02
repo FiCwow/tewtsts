@@ -1,0 +1,89 @@
+{
+  "name": "TESTT",
+  "client_name": "Tibia - Kalz",
+  "square_size": 60,
+  "collect_threshold": 0.85,
+  "my_x": {
+    "base": "",
+    "offset": [
+      0,
+      0
+    ],
+    "type": 3
+  },
+  "my_y": {
+    "base": "",
+    "offset": [
+      0,
+      0
+    ],
+    "type": 3
+  },
+  "my_z": {
+    "base": "",
+    "offset": [
+      0,
+      0
+    ],
+    "type": 2
+  },
+  "my_stats": {
+    "base": ""
+  },
+  "my_hp": {
+    "offset": [
+      0,
+      0
+    ],
+    "type": 2
+  },
+  "my_hp_max": {
+    "offset": [
+      0,
+      0
+    ],
+    "type": 2
+  },
+  "my_mp": {
+    "offset": [
+      0,
+      0
+    ],
+    "type": 2
+  },
+  "my_mp_max": {
+    "offset": [
+      0,
+      0
+    ],
+    "type": 2
+  },
+  "attack": {
+    "base": "",
+    "offset": [
+      0,
+      0
+    ],
+    "type": 3
+  },
+  "target_x": {
+    "offset": 0,
+    "type": 3
+  },
+  "target_y": {
+    "offset": 0,
+    "type": 3
+  },
+  "target_z": {
+    "offset": 0,
+    "type": 2
+  },
+  "target_hp": {
+    "offset": 0,
+    "type": 1
+  },
+  "target_name": {
+    "offset": 0,
+    "type": 6
+  }
+}
